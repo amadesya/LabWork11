@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\",
+  "WorkspaceRootPath": "C:\\Users\\E66\\source\\repos\\LabWork11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\labwork11\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E01C925-3C66-4D2C-B75B-C3AE6DA23A5B}|Task4\\Task4.csproj|c:\\users\\e66\\source\\repos\\labwork11\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E01C925-3C66-4D2C-B75B-C3AE6DA23A5B}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|c:\\users\\e66\\source\\repos\\labwork11\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29092CAE-9F30-41CC-8F80-5CC04795EBBC}|Task2\\Task2.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\labwork11\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29092CAE-9F30-41CC-8F80-5CC04795EBBC}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\labwork11\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\labwork11\\task3\\task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|solutionrelative:task3\\task3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\labwork11\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|c:\\users\\e66\\source\\repos\\labwork11\\task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|solutionrelative:task1\\task1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|c:\\temp\\\u0438\u0441\u043F\u043F-35\\labwork11\\task3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{29092CAE-9F30-41CC-8F80-5CC04795EBBC}|Task2\\Task2.csproj|c:\\users\\e66\\source\\repos\\labwork11\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29092CAE-9F30-41CC-8F80-5CC04795EBBC}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|c:\\users\\e66\\source\\repos\\labwork11\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCFC030-E996-4CCB-98A5-32D7AD5D2DDD}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|c:\\users\\e66\\source\\repos\\labwork11\\task3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{34E1CAE5-5DD0-45D2-B0AF-50FFD0BE3DFD}|Task3\\Task3.csproj|solutionrelative:task3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -34,23 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:16:21.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Task1",
-              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task1\\Task1.csproj",
+              "DocumentIndex": 2,
+              "Title": "Task1.csproj",
+              "DocumentMoniker": "C:\\Users\\E66\\Source\\Repos\\LabWork11\\Task1\\Task1.csproj",
               "RelativeDocumentMoniker": "Task1\\Task1.csproj",
-              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task1\\Task1.csproj",
+              "ToolTip": "C:\\Users\\E66\\Source\\Repos\\LabWork11\\Task1\\Task1.csproj",
               "RelativeToolTip": "Task1\\Task1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -61,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task3\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task3\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Task3\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task3\\Properties\\launchSettings.json",
               "RelativeToolTip": "Task3\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -72,24 +81,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
-              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T08:26:44.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
-              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task2\\Program.cs",
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,28 +107,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
-              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\E66\\source\\repos\\LabWork11\\Task1\\Program.cs",
               "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T07:18:51.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Task3",
-              "DocumentMoniker": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task3\\Task3.csproj",
-              "RelativeDocumentMoniker": "Task3\\Task3.csproj",
-              "ToolTip": "C:\\Temp\\\u0418\u0421\u041F\u041F-35\\LabWork11\\Task3\\Task3.csproj",
-              "RelativeToolTip": "Task3\\Task3.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-24T08:34:27.818Z",
               "EditorCaption": ""
             }
           ]

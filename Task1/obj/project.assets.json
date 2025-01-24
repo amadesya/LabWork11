@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\221\\.nuget\\packages\\": {}
+    "C:\\Users\\E66\\.nuget\\packages\\": {},
+    "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\ИСПП-35\\LabWork11\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\E66\\Source\\Repos\\LabWork11\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Temp\\ИСПП-35\\LabWork11\\Task1\\Task1.csproj",
-      "packagesPath": "C:\\Users\\221\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\ИСПП-35\\LabWork11\\Task1\\obj\\",
+      "projectPath": "C:\\Users\\E66\\Source\\Repos\\LabWork11\\Task1\\Task1.csproj",
+      "packagesPath": "C:\\Users\\E66\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\E66\\Source\\Repos\\LabWork11\\Task1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\221\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\E66\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -45,8 +50,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -67,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
