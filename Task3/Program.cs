@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите имя файла: ");
+Console.WriteLine("Введите имя файла: ");
 var fileName = Console.ReadLine();
 Console.WriteLine("Введите искомый текст: ");
 var fileText = Console.ReadLine();
@@ -11,7 +11,7 @@ if (fileInfo.Exists)
     {
         if (line.Contains(fileText))
         {
-            Console.WriteLine(line);
+            Console.WriteLine($"Найдено в строке:{line}");
         }
     }
 }
